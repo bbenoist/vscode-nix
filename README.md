@@ -1,4 +1,4 @@
-# Nix language support for [Visual Studio Code](https://code.visualstudio.com/)
+# [Nix](https://nixos.org/nix/) language support for [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Features
 ### Syntax coloring
