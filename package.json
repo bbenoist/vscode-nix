@@ -2,18 +2,18 @@
   "name": "Nix",
   "description": "Nix language support for Visual Studio Code.",
   "version": "1.0.1",
-  "publisher": "bbenoist",
+  "publisher": "wmertens",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#FFFFFF",
     "theme": "light"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "bugs": { "url": "https://github.com/bbenoist/vscode-nix/issues" },
-  "homepage": "https://github.com/bbenoist/vscode-nix/blob/master/README.md",
+  "bugs": { "url": "https://github.com/wmertens/vscode-nix/issues" },
+  "homepage": "https://github.com/wmertens/vscode-nix/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bbenoist/vscode-nix.git"
+    "url": "https://github.com/wmertens/vscode-nix.git"
   },
   "engines": {
     "vscode": "^0.10.1"
